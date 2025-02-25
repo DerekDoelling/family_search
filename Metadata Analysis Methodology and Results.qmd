@@ -96,7 +96,7 @@ Data is exported in the MARC bibliographic format. This format is used by librar
 print(raw.head())
 ```
 
-Unless someone is very familiar with MARC, these columns names don't mean anything significant. In an effor to make the data more understandable, we will rename the columns to something more meaningful. Columns were renamed according to the mark standard found [here](https://www.loc.gov/marc/bibliographic/).
+Unless someone is very familiar with MARC, these columns names don't mean anything significant. In an effort to make the data more understandable, we will rename the columns to something more meaningful. Columns were renamed according to the mark standard found [here](https://www.loc.gov/marc/bibliographic/).
 
 These column names were simply stored in a python dictionary and then mapped to their respective columns. This gives us a better understanding of what the data means with an output that looks like this:
 

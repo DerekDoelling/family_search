@@ -6,7 +6,9 @@ numpy
 tabulate
 matplotlib
 seaborn
+plotly
 langid
 lets-plot
 fastexcel
 openpyxl
+collections
